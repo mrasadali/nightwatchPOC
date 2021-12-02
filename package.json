@@ -1,0 +1,20 @@
+{
+  "name": "Nightwatch_POC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^96.0.0",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.7",
+    "nightwatch": "^1.7.12",
+    "path": "^0.12.7",
+    "selenium-server": "^3.141.59"
+  }
+}
