@@ -1,5 +1,9 @@
 module.exports={
-    "src_folders" : ["test"],
+    src_folders : ["test"],
+    page_objects_path : ['Pages'],
+    custom_commands_path: '',
+    custom_assertions_path: '',
+    globals_path: '',
 
   "webdriver" : {
     "start_process": true,
