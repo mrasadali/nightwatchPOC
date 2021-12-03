@@ -25,6 +25,7 @@ const checkBoxes = {
         .setValue(elements.textBox, elements.textBoxValue)
         .click(elements.dropdown)
         .assert.containsText(elements.dropdown, elements.dropdownOption)
+        .saveScreenshot('tests_output/Screenshots/Checkbox/checkbox.png')
         .click(elements.checkbox)
         .pause(3000)
         

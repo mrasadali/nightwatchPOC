@@ -13,6 +13,7 @@ const iFrameFunc ={
         url(elements.url);
         browser.moveToElement(elements.iFrame , 0, 0)
         browser.frame(elements.iFrame_name)
+        .saveScreenshot('tests_output/Screenshots/iFrame/Frame.png')
         browser.click(elements.loginBtn)
         .pause(3000)
         .end()
@@ -25,6 +26,7 @@ const hover = {
         url(elements.url);
         browser.moveToElement(elements.hoverButton , 100, 100)
         .click(elements.hoverButton)
+        .saveScreenshot('tests_output/Screenshots/iFrame/hover.png')
         .pause(2000)
         .end();
 

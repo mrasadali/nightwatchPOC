@@ -5,12 +5,12 @@
 
   <testsuite name="iFrame"
     errors="0" failures="0" hostname="" id="" package="iFrame" skipped="0"
-    tests="2" time="26.40" timestamp="">
+    tests="2" time="94.60" timestamp="">
   
-    <testcase name="Should click on login in iFrame" classname="iFrame" time="17.07" assertions="0">
+    <testcase name="Should click on login in iFrame" classname="iFrame" time="61.98" assertions="0">
     </testcase>
   
-    <testcase name="Should hover to the button and click" classname="iFrame" time="9.335" assertions="0">
+    <testcase name="Should hover to the button and click" classname="iFrame" time="32.62" assertions="0">
     </testcase>
   
 
