@@ -5,9 +5,9 @@
 
   <testsuite name="Alerts"
     errors="0" failures="0" hostname="" id="" package="Alerts" skipped="0"
-    tests="1" time="23.89" timestamp="">
+    tests="1" time="14.15" timestamp="">
   
-    <testcase name="Should include the checkboxes to click" classname="Alerts" time="23.89" assertions="2">
+    <testcase name="Should include the checkboxes to click" classname="Alerts" time="14.15" assertions="2">
 
     
 
